@@ -1,0 +1,27 @@
+Miről szól a tananyag?
+Árammérőről, feszültségmérőről
+az elektromosságról az elektronikai alkatrészekről, számításairól, bekötésűkről
+
+Milyen alkatrészeket tanultunk, ezek mire valók?
+
+ellenállás          kondenzátor        tápellátás    tranzisztor   félvezető           integrált áramkör
+Áramkolátozás       Energia tárolása   Áramellátás   Kapcsolás    Fénykibocsájtás   Speciális feladatra készülnek
+Feszültség osztás                                    Erősítés     Egyenirányítás
+
+Milyen áramköröket lehet készíteni?
+
+Ellenállás soros kapcsolása
+Ellenállás párhuzamos kapcsolása
+
+alap fogalmak:
+Feszültség:
+Jele:U, mértékegysége:V
+
+Ármerősség:
+Jele:I, mértékegysége:A
+
+Ellenállás:R=U/I
+jele:R, mértékegysétge:Ω
+
+teljesítmény:P=U×I
+jele:P, mértékegysége:W
